@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Huu Kien</h1>
 <h3 align="center"></h3>
+![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huukien&label=Profile%20views&color=0e75b6&style=flat" alt="huukien" /> </p>
 
