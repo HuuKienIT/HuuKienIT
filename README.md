@@ -25,8 +25,9 @@
 
 <img src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huukien&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="huukien" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huukien&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="huukien"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huukien&count_private=true&theme=algolia&border_radius=20" alt="huukien" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huukien&count_private=true&theme=algolia&border_radius=20" alt="huukien" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huukien&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="huukien" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huukien&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="huukien" /></p>
+
