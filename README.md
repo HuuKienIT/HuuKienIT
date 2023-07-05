@@ -2,7 +2,7 @@
 <iframe src="https://giphy.com/embed/1GEATImIxEXVR79Dhk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Huu Kien</h1>
 <h3 align="center">A developer from Viet Nam</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/1GEATImIxEXVR79Dhk">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/1GEATImIxEXVR79Dhk](https://giphy.com/embed/1GEATImIxEXVR79Dhk)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huukien&label=Profile%20views&color=0e75b6&style=flat" alt="huukien" /> </p>
 
