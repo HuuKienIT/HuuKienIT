@@ -1,4 +1,4 @@
-
+<img src="https://whatifgaming.com/wp-content/uploads/2022/03/Neon-Car-discord-banner.gif" width="1000" />
 <h1 align="center">Hi 👋, I'm Huu Kien</h1>
 <h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huukien&label=Profile%20views&color=0e75b6&style=flat" alt="huukien" /> </p>
