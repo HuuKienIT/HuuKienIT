@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **BlockChain (Near)**
+- 🔭 I’m currently working on **Python Django developer**
 
-- 🌱 I’m currently learning **Rust, PHP, Python**
+- 🌱 I’m currently learning **Rust, PHP, Python, C++, **
 
-- 👯 I’m looking to collaborate on **BlockChain(Near)**
+- 👯 I’m looking to collaborate on **Python Django**
 
 - 💬 Ask me about **Python, Java, PHP**
 
