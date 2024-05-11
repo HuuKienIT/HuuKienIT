@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Python Django Developer**
+- 🔭 I’m currently working on **Python Django Project**
 
-- 🌱 I’m currently learning **Rust, PHP, Python, C++ **
+- 🌱 I’m currently learning **Ruby, PHP, Python**
 
-- 👯 I’m looking to collaborate on **Python Django**
+- 👯 I’m looking to collaborate on **Python, Ruby**
 
-- 💬 Ask me about **Python, Java, PHP**
+- 💬 Ask me about **Python, Ruby Java, PHP**
 
 - 📫 How to reach me **nguhuukien03@gmail.com**
 
